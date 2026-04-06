@@ -29,8 +29,8 @@ I'm a passionate developer focused on building innovative solutions and contribu
 
 ## 💼 Featured Projects
 
-- **[Laravel Form](https://github.com/AnuragKumapy/Larave-form)** - Brief description
-- **[DholRatri Tickets and Event Manger]((https://github.com/AnuragKumarpy/dholratri-tickets))** - Brief description
+- **[Laravel Form](https://github.com/AnuragKumapy/Laravel-form)** - Form Page made using Laravel
+- **[DholRatri Tickets and Event Manger](https://github.com/AnuragKumarpy/dholratri-tickets))** - An event manager and ticket booking website.
 
 ---
 
